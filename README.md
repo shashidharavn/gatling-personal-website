@@ -1,5 +1,8 @@
 # How to run
 
+## via mvn
+`mvn package exec:java`
+
 ## via IntelliJ
 
 1. Open IntelliJ
@@ -8,3 +11,4 @@
 4. Under "Import project from external model" select "Maven".
 5. Next/Finish/etc ...
 6. Execute object 'Engine'
+
